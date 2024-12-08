@@ -1,0 +1,5 @@
+{
+  "jsxBracketSameLine": true,
+  "trailingComma": "none",
+  "arrowParens": "avoid"
+}
