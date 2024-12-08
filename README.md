@@ -7,8 +7,9 @@ A todo website in next with nextauth authentication.
 
 
 ## Screenshots
+![Screenshot 2024-12-08 222934](https://github.com/user-attachments/assets/14b3c713-69d8-4690-9dba-e9cf7e505a0a)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-12-08 222959](https://github.com/user-attachments/assets/bef65564-dec4-4051-b53d-b974fd476d96)
 
 ## Features
 
