@@ -41,7 +41,7 @@ A todo website in next with nextauth authentication.
 1. Clone the project
 
 ```bash
-git clone https://link-to-project
+git clone https://github.com/jitendraSingh23/taskify.git
 ```
 
 2. Go to the project directory
