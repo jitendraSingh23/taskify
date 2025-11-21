@@ -3,7 +3,7 @@
 
 A todo website in next with nextauth authentication. 
 
-### [Vercel Demo](https://taskify-4pidpgd0l-jitendrasingh23s-projects.vercel.app/auth/signup) ###
+### [Vercel Demo](https://taskify.jitendra.online/) ###
 
 
 ## Screenshots
